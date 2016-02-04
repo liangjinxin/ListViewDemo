@@ -65,5 +65,8 @@ public class ImageAdapter2 extends ArrayAdapter<String> {
 		public void putBitmap(String url, Bitmap bitmap) {
 			mLruCache.put(url,bitmap);
 		}
+
+
+
 	}
 }
