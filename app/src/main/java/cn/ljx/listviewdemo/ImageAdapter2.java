@@ -67,6 +67,6 @@ public class ImageAdapter2 extends ArrayAdapter<String> {
 		}
 
 
-
+		//Volley
 	}
 }
