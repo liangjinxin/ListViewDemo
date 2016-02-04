@@ -6,4 +6,5 @@ package cn.ljx.listviewdemo;
 public class Test {
 	//中文乱码
 	//再次测试
+
 }
